@@ -20,7 +20,7 @@
 
 .input-contain{
   margin-left: 50%;
-  margin-top: 30px;
+  margin-top: 3rem;
 }
 
 input{
@@ -29,18 +29,18 @@ input{
 }
 
 .type-field{
-  height: 25px;
-  width: 260px;
-  margin-top: 10px;
+  height: 1.5rem;
+  width: 20vw;
+  margin-top: 1rem;
   font-size: 22px;
 }
 
 .Button{
   color: grey;
-  height: 25px;
+  height: 5vh;
   background-color: lightsteelblue;
   font-size: 20px ;
-  margin-top: 5px;
+  margin-top: 1rem;
   border-radius: 2px;
 }
 
