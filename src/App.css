@@ -6,7 +6,7 @@
 
 .form-contain{
   background-color: rgb(216, 244, 253);
-  width: 70vw;
+  width: 70%;
   height: 100vh;
   margin-left: 0px;
 }
@@ -14,7 +14,7 @@
 
 .list-contain{
   background-color: rgb(154, 215, 253);
-  width: 30vw;
+  width: 30%;
   height: 100vh;
 }
 
